@@ -1,6 +1,6 @@
 # Merge-Sort-Project
 
-## [16,21,11,8,12,22] dizisinin Merg Sort a göre aşamalarını yazınız:
+## [16,21,11,8,12,22] dizisinin Merge Sort a göre aşamalarını yazınız:
 
 -                  [16,21,11,8,12,22]
 
